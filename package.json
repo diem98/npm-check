@@ -81,7 +81,7 @@
     "minimatch": "^3.0.2",
     "node-emoji": "^1.0.3",
     "ora": "^0.2.1",
-    "package-json": "^4.0.1",
+    "package-json": "^6.0.0",
     "path-exists": "^2.1.0",
     "pkg-dir": "^1.0.0",
     "preferred-pm": "^1.0.1",
